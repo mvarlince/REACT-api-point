@@ -1,0 +1,14 @@
+/* .main {
+    position:inherit;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+
+button{
+    padding: 5px;
+    height: 20;
+    background-color: black;
+    color: white;
+}  
