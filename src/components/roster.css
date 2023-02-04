@@ -1,12 +1,13 @@
-/* .main {
-    position:inherit;
+.main {
+position:absolute;
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
-} */
+}
 
 
 button{
+    position:inherit;
     padding: 5px;
     height: 20;
     background-color: black;
