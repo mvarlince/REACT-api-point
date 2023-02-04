@@ -28,9 +28,7 @@ export default function Roster(){
                 .then(setStudent)
                 .catch(console.error)
                 }> Populate Students </button>
-
             </div>
-
         </>
     )
 }
